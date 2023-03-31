@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#Submit_Todo
+{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+#Todo_completed
+{
+    margin-left: 30px;
+}
+#Todo_Remaining
+{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
